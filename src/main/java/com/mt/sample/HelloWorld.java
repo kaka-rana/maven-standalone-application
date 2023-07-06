@@ -1,5 +1,5 @@
 package com.mt.sample;
-Hello world!
+
 /**
  * Hello world!
  *
