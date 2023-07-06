@@ -4,7 +4,7 @@ package com.mt.sample;
  * Hello world!
  *
  */
-import java.util.Date;
+import  java.util.Date;
 
 public class HelloWorld {
 
